@@ -143,7 +143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pivot: {fileID: 1708861287}
   angularSpeed: 5
-  selfRotationSpeed: 30
+  selfRotationSpeed: 5
 --- !u!1001 &246053279
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -228,7 +228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pivot: {fileID: 1708861287}
   angularSpeed: 15
-  selfRotationSpeed: 30
+  selfRotationSpeed: 15
 --- !u!1 &246879671
 GameObject:
   m_ObjectHideFlags: 0
@@ -352,13 +352,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.3438792, y: -0, z: -0, w: 0.93901396}
+  m_LocalPosition: {x: 0, y: 16.81, z: -17.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 40.227, y: 0, z: 0}
 --- !u!114 &330585547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -608,7 +608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pivot: {fileID: 1708861287}
   angularSpeed: 20
-  selfRotationSpeed: 30
+  selfRotationSpeed: 20
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -742,7 +742,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pivot: {fileID: 1708861287}
   angularSpeed: 10
-  selfRotationSpeed: 30
+  selfRotationSpeed: 10
 --- !u!1 &1708861283
 GameObject:
   m_ObjectHideFlags: 0
@@ -935,7 +935,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pivot: {fileID: 1708861287}
   angularSpeed: 25
-  selfRotationSpeed: 30
+  selfRotationSpeed: 25
 --- !u!1001 &377284590794821837
 PrefabInstance:
   m_ObjectHideFlags: 0
