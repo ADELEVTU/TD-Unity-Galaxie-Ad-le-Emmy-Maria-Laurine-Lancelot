@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6111236818953026773}
   m_Layer: 0
-  m_Name: PlanetD_pivot
+  m_Name: PlanetC_pivot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 4546829192815620835}
   - component: {fileID: 8341279078640853262}
   m_Layer: 0
-  m_Name: PlanetD
+  m_Name: PlanetC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
